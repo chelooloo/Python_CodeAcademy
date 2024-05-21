@@ -12,6 +12,8 @@
 ### 4. Python Loops Medical Insurance Estimation vs Costs
    : Analyze medical insurance cost data.
 
+### 5. Frida
+   : create a master list of each painting, its date, and its audio tour ID.
 
 
 
