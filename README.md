@@ -6,6 +6,9 @@
 ### 2. Python Lists Medical Insurance Estimation
    : Apply Lists to store insurance cost data in a list as well as compare estimated insurance costs to actual insurance costs.
 
+### 3. Working with Python Lists Medical Insurance Costs
+   : store medical data and see what valuable insights from that data.
+
 
 
 
