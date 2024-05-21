@@ -18,6 +18,9 @@
 ### 6. coded_correspondence
    : Decipher the messages received and to encode responses.
 
+### 7. Reggie's Linear Regression
+   : Create a function that will find a line of best fit when given a set of data (Linear Regression algorithm)
+
 
 
 
