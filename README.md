@@ -7,7 +7,10 @@
    : Apply Lists to store insurance cost data in a list as well as compare estimated insurance costs to actual insurance costs.
 
 ### 3. Working with Python Lists Medical Insurance Costs
-   : store medical data and see what valuable insights from that data.
+   : Store medical data and see what valuable insights from that data.
+
+### 4. Python Loops Medical Insurance Estimation vs Costs
+   : Analyze medical insurance cost data.
 
 
 
