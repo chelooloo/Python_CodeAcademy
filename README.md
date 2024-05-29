@@ -21,6 +21,9 @@
 ### 7. Reggie's Linear Regression
    : Create a function that will find a line of best fit when given a set of data (Linear Regression algorithm)
 
+### 8. Page Visits Funnel
+   : Analyze data on visits to Cool T-Shirts Inc. Build a funnel, which is a description of how many people continue to the next step of a multi-step process.
+
 
 
 
