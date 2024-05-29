@@ -24,6 +24,9 @@
 ### 8. Page Visits Funnel
    : Analyze data on visits to Cool T-Shirts Inc. Build a funnel, which is a description of how many people continue to the next step of a multi-step process.
 
+### 9. This Is Jeopardy
+   :Write several functions that investigate a dataset of Jeopardy. questions and answers. Filter the dataset for topics, compute the average difficulty of those questions, and train to become the next Jeopardy champion
+
 
 
 
