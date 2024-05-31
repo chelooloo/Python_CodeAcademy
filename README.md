@@ -27,6 +27,9 @@
 ### 9. This Is Jeopardy
    :Write several functions that investigate a dataset of Jeopardy. questions and answers. Filter the dataset for topics, compute the average difficulty of those questions, and train to become the next Jeopardy champion
 
+### 10. EDA: Diagnosing Diabetes
+   : Use your EDA skills to help inspect, clean, and validate the data.
+
 
 
 
