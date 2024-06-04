@@ -30,6 +30,9 @@
 ### 10. EDA: Diagnosing Diabetes
    : Use your EDA skills to help inspect, clean, and validate the data.
 
+### 11. NBA Trends
+   : Analyze data from the NBA (National Basketball Association) and explore possible associations.
+
 
 
 
