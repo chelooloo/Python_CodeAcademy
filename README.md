@@ -33,6 +33,8 @@
 ### 11. NBA Trends
    : Analyze data from the NBA (National Basketball Association) and explore possible associations.
 
+### 12. Detecting Product Defects with Probability
+   : Investigate certain attributes of the Poisson(7) distribution to get an intuition for how many defective objects you should expect to see in a given amount of time
 
 
 
