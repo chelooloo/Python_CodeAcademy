@@ -34,13 +34,16 @@
    : Analyze data from the NBA (National Basketball Association) and explore possible associations.
 
 ### 12. Detecting Product Defects with Probability
-   : Investigate certain attributes of the Poisson(7) distribution to get an intuition for how many defective objects you should expect to see in a given amount of time
+   : Investigate certain attributes of the Poisson(7) distribution to get an intuition for how many defective objects you should expect to see in a given amount of time.
 
 ### 13. Exploring Mushrooms
-   : Analyze an extensive mushroom dataset from UCI using bar charts
+   : Analyze an extensive mushroom dataset from UCI using bar charts.
 
 ### 14. import seaborn as sns
    : Find the best deal for clients and help them to understand how airline prices change based on different factors.
+
+### 15. Life Expenctancy and GDP (Kaggle)
+   : Analyze data on GDP and life expectancy from the World Health Organization and the World Bank to try and identify the relationship between the GDP and life expectancy of six countries.
 
 
 
