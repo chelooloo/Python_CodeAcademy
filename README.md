@@ -39,6 +39,9 @@
 ### 13. Exploring Mushrooms
    : Analyze an extensive mushroom dataset from UCI using bar charts
 
+### 14. import seaborn as sns
+   : Find the best deal for clients and help them to understand how airline prices change based on different factors.
+
 
 
 
