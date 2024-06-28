@@ -45,6 +45,8 @@
 ### 15. Life Expenctancy and GDP (Kaggle)
    : Analyze data on GDP and life expectancy from the World Health Organization and the World Bank to try and identify the relationship between the GDP and life expectancy of six countries.
 
+### 16. Cleaning US Census Data
+   : Collect census data and create interesting visualizations and insights from it.
 
 
 
