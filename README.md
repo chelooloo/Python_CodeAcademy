@@ -48,7 +48,7 @@
 ### 16. Cleaning US Census Data
    : Collect census data and create interesting visualizations and insights from it.
 
-### 17. Biodiversity in National Park
+### 17. Biodiversity
    : Perform some data analysis on the conservation statuses of these species and investigate if there are any patterns or themes to the types of species that become endangered.
 
 
