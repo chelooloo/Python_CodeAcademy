@@ -51,6 +51,10 @@
 ### 17. Biodiversity
    : Perform some data analysis on the conservation statuses of these species and investigate if there are any patterns or themes to the types of species that become endangered.
 
+### 18. Life Expectancy By Country
+   : Investigate a dataset containing information about the average life expectancy in 158 different countries and analyze how a country’s economic success might impact the life expectancy in that area.
+
+
 
 
 
