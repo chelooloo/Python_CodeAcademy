@@ -54,6 +54,9 @@
 ### 18. Life Expectancy By Country
    : Investigate a dataset containing information about the average life expectancy in 158 different countries and analyze how a country’s economic success might impact the life expectancy in that area.
 
+### 19. Summarizing Automobile Evaluation Data
+   : Use categorical data to analyze the dataset on the cost and physical attributes of several thousand cars.
+
 
 
 
