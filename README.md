@@ -58,7 +58,10 @@
    : Use categorical data to analyze the dataset on the cost and physical attributes of several thousand cars.
 
 ### 20. Constellations
-   : Visualize the Orion constellation using the Matplotlib function .scatter().Create both a 2D and a 3D visualization of the position of Orion’s stars and get a better sense of their actual positions
+   : Visualize the Orion constellation using the Matplotlib function .scatter().Create both a 2D and a 3D visualization of the position of Orion’s stars and get a better sense of their actual positions.
+
+### 21. Board Slides for FoodWheel
+   : Use pandas and matplotlib skills to analyze and visualize the FoodWheel dataset.
 
 
 
