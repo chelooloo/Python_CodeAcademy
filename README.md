@@ -63,6 +63,9 @@
 ### 21. Board Slides for FoodWheel
    : Use pandas and matplotlib skills to analyze and visualize the FoodWheel dataset.
 
+### 22. Roller Coaster
+   : Create several data visualizations that will give you insight into the world of roller coasters.
+
 
 
 
